@@ -1,0 +1,111 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Foo Fighters",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+    },
+    {
+      "id": 2,
+      "name": "Michael Jackson",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+    },
+    {
+      "id": 3,
+      "name": "Emicida",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+    },
+    {
+      "id": 4,
+      "name": "Chitãozinho e Xororó",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"
+    },
+    {
+      "id": 5,
+      "name": "Mc Coringa",
+      "genre": "Funk",
+      "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56"
+    },
+    {
+      "id": 6,
+      "name": "Arlindo Cruz",
+      "genre": "Samba",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
+    },
+    {
+      "id": 7,
+      "name": "Van Halen",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174d8475001d2700686e1008dfb"
+    },
+    {
+      "id": 8,
+      "name": "Caetano Veloso",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
+    }
+  ],
+
+  "playlists": [
+    {
+      "id": 1,
+      "name": "Today's Top Hits",
+      "genre": "Top Hits",
+      "description": "Jack Harlow is on top of the hottest 50!",
+      "urlImg": "https://i.scdn.co/image/ab67706f000000026d7b14f72609c7f5fdf07d4a"
+    },
+    {
+      "id": 2,
+      "name": "Pop up",
+      "genre": "Pop",
+      "description": "Super mega hits! Foto: Ariana Grande",
+      "urlImg": "https://i.scdn.co/image/ab67706f00000002861e83bdf568cb160db87130"
+    },
+    {
+      "id": 3,
+      "name": "Viral Hits",
+      "genre": "Viral",
+      "description": "Viral, trending and talking off.",
+      "urlImg": "https://i.scdn.co/image/ab67706f00000002d971c6c23114fc7636dc23eb"
+    },
+    {
+      "id": 4,
+      "name": "Top Brasil",
+      "genre": "Nacional",
+      "description": "NBorges, Veigh, MC Cabelinho e os maiores hits do país. O que tá bombando tá aqui.",
+      "urlImg": "https://i.scdn.co/image/ab67706f00000002525aed208e381d39ce497803"
+    },
+    {
+      "id": 5,
+      "name": "just hits",
+      "genre": "New",
+      "description": "Current favorites and exciting new music. Cover: Taylor Swift",
+      "urlImg": "https://i.scdn.co/image/ab67706f00000002fc67843eab87b042323e111a"
+    },
+    {
+      "id": 6,
+      "name": "New Boots",
+      "genre": "New",
+      "description": "New music discovery is what we're about. Try it on for size. Cover: Niko Moon",
+      "urlImg": "https://i.scdn.co/image/ab67706f00000002c7cdcddff21e55ba5ab674e2"
+    },
+    {
+      "id": 7,
+      "name": "Dance Paradise",
+      "genre": "Dance",
+      "description": "Eletrônico do momento para curtir onde estiver. Foto: Bhaskar, Alok",
+      "urlImg": "https://i.scdn.co/image/ab67706f00000002a663028392d8ecc46b52a790"
+    },
+    {
+      "id": 8,
+      "name": "Anime Now",
+      "genre": "Anime",
+      "description": "Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！",
+      "urlImg": "https://i.scdn.co/image/ab67706f00000002678b81229c4b783dd816d87a"
+    }
+  ]
+}
