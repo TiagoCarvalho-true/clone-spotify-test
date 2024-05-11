@@ -1,6 +1,6 @@
 ## Esse projeto como intuito de treinar e mostrar minhas Stacks de front-end.
 
-<h1>na organizaçao do começo foi simples, pois oque tinha que fazer era uma estrutura de css com grid que é minha funçao preferida, mas depois tive umas complicacoes no consumo de API que estava dando uns bugs entao continuei procurando erros, entao resovi apagar o codigo e escrever de novo e dessa vez  o consumo de API veio sem bugs...</h1>
+na organizaçao do começo foi simples, pois oque tinha que fazer era uma estrutura de css com grid que é minha funçao preferida, mas depois tive umas complicacoes no consumo de API que estava dando uns bugs entao continuei procurando erros, entao resovi apagar o codigo e escrever de novo e dessa vez  o consumo de API veio sem bugs...
 
 
 ## ferramentas:
