@@ -8,4 +8,4 @@
 ![SQL](https://img.shields.io/badge/SQL-FF6400?style=for-the-badge&logo=Sql&logoColor=black)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-F90673?style=for-the-badge&logo=npm&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![NODE.js](https://img.shields.io/badge/GIT-E465430?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![NODE.js](https://img.shields.io/badge/NODE.JS-E465430?style=for-the-badge&logo=git&logoColor=white)&nbsp;
