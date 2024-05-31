@@ -11,4 +11,4 @@ na organizaçao do começo foi simples, pois oque tinha que fazer era uma estrut
 
 ![NPM](https://img.shields.io/badge/NPM-F90673?style=for-the-badge&logo=npm&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/NODE.JS-E465430?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
